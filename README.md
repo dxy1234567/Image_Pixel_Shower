@@ -9,3 +9,9 @@ For the sake of simplicity for displaying the pixels values, especially pixels i
 ## How to use
 
 It is easy to use. Just select your image path and run the program, and you will see the pixels values on the top of the image.
+
+## Bugs and updates
+
+### 2024-12-28
+I found that pixels do not show correct values. 
+![alt text](demo/image.png)
